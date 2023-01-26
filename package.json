@@ -1,0 +1,14 @@
+{
+  "name": "cruise_ships-gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "claudiu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
