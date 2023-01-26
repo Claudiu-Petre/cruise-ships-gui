@@ -1,9 +1,10 @@
 {
   "name": "cruise_ships-gui",
   "version": "1.0.0",
-  "description": "",
+  "description": "cruise_ships-gui",
   "main": "index.js",
   "scripts": {
+    "start": "xdg-open index.html",
     "test": "jest"
   },
   "author": "claudiu",

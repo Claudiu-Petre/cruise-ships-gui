@@ -289,8 +289,7 @@
    * 2. Correct the outline style in Safari.
    */
   
-  [type="search"] {
-    -webkit-appearance: textfield; /* 1 */
+  [type="search"] {-webkit-appearance: textfield; /* 1 */
     outline-offset: -2px; /* 2 */
   }
   
